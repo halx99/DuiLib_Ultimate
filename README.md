@@ -33,13 +33,11 @@ DuiLib_Ultimate是DuiLib库的增强拓展版，库修复了大量用户在使�
 #### **作者简介** 
 网名troy、qdtroy，qq：656067418，微信：qdtroy
 
-duilib开源项目圈（QQ群）：261675375、261851826
+duilib开源项目圈（QQ群）：1群（261675375）、2群（261851826）、3群（199950533）
 
 ##### **项目支持** 
 1、微信：qdtroy
 
 2、支付宝：qdtroy@qq.com
-
-![欢迎捐助](https://github.com/qdtroy/DuiLib_Ultimate/blob/master/Help/qdtroy_alipay.png)  
 
 3、入门学习指导、项目技术支持、产品UI定制请联系Troy（QQ：656067418）
